@@ -5,6 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
+  
+  
+  
   <modules>
   <module>service-order</module>
   <module>service-user</module>
