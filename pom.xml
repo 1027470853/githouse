@@ -5,9 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   
-  <!-- 看这里，看这里，看这里 -->
-  
-  
   <modules>
   <module>service-order</module>
   <module>service-user</module>
@@ -80,11 +77,11 @@
 			<scope>test</scope>
 		</dependency>
 		<!--Json Support -->
-        <dependency>
+       <!--  <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.1.43</version>
-        </dependency>
+        </dependency> -->
 </dependencies>
   <build>
 		<plugins>
